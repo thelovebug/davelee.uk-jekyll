@@ -19,3 +19,6 @@ You can find the source code for Jekyll at GitHub:
 
 
 # If you see this line, automatic deployment is up and working!
+
+
+**Site last deployed:** {{ site.time }}
