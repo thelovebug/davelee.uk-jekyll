@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/thelovebug
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://davelee.uk
+  * I am thelovebug (https://keybase.io/thelovebug) on keybase.
+  * I have a public key ASAFal3WQ7ZvgzWvFf5kQqnfgHoCGWFgFclRHRbqH_DaOgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010185773a0647c9f50e9f182f3a52f6b924e717083193b3f24def7a5ea23afa09390a",
+      "host": "keybase.io",
+      "kid": "0120056a5dd643b66f8335af15fe6442a9df807a0219616015c9511d16ea1ff0da3a0a",
+      "uid": "d823de43480047d828d642b331719c00",
+      "username": "thelovebug"
+    },
+    "merkle_root": {
+      "ctime": 1536998135,
+      "hash": "02083d00452155524cf8487efdee0c630bd53e3d333b4dea252278e5020bd7ce433ab51c2abfc6168108abeceea602992178addd4da88cc3420e05773b05eda1",
+      "hash_meta": "fc15e59e2e46cd5366bdd1d0f9c4c58833a18409dcb1ada743148e6d0c65cb93",
+      "seqno": 3613539
+    },
+    "service": {
+      "entropy": "V5FFF23OOcgcedZmrQa1H26/",
+      "hostname": "davelee.uk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.0"
+  },
+  "ctime": 1536998153,
+  "expire_in": 504576000,
+  "prev": "7e80f77281aa713d44ff29a5663ebf58f69f9579f8869f78681d866c848e5648",
+  "seqno": 100,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBWpd1kO2b4M1rxX+ZEKp34B6AhlhYBXJUR0W6h/w2joKp3BheWxvYWTESpcCZMQgfoD3coGqcT1E/ymlZj6/WPaflXn4hp94aB2GbISOVkjEIOXF34NLJJZuJRSiI/N1EUWOxykDHdXJ3TTuLi3xmfuZAgHCo3NpZ8RAhAAiosrpoaKSIh13F7dcHQgaq+Vq070ZuIVOZygcF4htBm/Rjl6vlsrbfQUrD5g98as+wROeynKIl+A4TlizB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKcaep+NJ0SI5xBacmChojR6hW+E/IWESuJ9dodbdkhpo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thelovebug
+
+==================================================================
