@@ -16,7 +16,7 @@
 title: Dave Lee
 #email: dave@davelee.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Podcasting, Linux, Internet
+  Podcaster, Linux advocate, Hacker
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://davelee.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thelovebug
