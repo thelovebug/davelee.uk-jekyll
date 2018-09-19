@@ -2,6 +2,7 @@
 layout: page
 title: This site
 permalink: /about/site/
+excludenav: true
 ---
 
 # How this site is built
