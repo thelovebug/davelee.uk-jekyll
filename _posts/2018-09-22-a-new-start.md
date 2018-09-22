@@ -4,7 +4,6 @@ title: "A new start"
 date: 2018-09-22 15:00:00 +0100
 categories: personal
 --- 
-
 Those of you who know me well will know that I don't have a particularly good track record when it comes to blogging.  This is somewhat illogical because I'm actually quite a decent writer.  I have lots of ideas and primers for blog posts and things to write about which inevitably end up getting dried out in the spin cycle of life.
 
 Some of the ideas and primers I have rattling around inside my head include:
