@@ -21,6 +21,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://davelee.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thelovebug
 github_username:  thelovebug
+rss: /feed.xml
+
 permalink: /:categories/:title:output_ext
 
 # Build settings
@@ -44,6 +46,6 @@ exclude:
   - vendor/ruby/
   - README.md
 
-main_navigation:
-- text: About
-  url: /about/
+header_pages:
+  - about.md
+  - now.md
