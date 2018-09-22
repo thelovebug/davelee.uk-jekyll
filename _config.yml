@@ -46,3 +46,4 @@ exclude:
 
 main_navigation:
 - text: About
+  url: /about/
