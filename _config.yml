@@ -43,3 +43,6 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - README.md
+
+main_navigation:
+- text: About
